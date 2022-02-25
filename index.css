@@ -1,0 +1,35 @@
+body{
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+header{
+ top: 20%;
+}
+.wrapper{
+
+ background-color: rgb(0, 3, 2);
+}
+.home-view{
+  width: 100vw;
+  height: 100vh;
+}
+.first-over{
+  padding: 50%;
+}
+.head-txt{
+  font-weight: 400;
+  font-size: 900%;
+  position: absolute;
+  left: 60%;
+  top: 40%;
+}
+.jumbotron{ margin-top: 10%;
+  color: aliceblue;
+  padding-bottom: 30%;
+  background-image: url("img/space.jpg");
+
+  background-repeat: no-repeat;
+  background-size:cover
+  
+
+}
